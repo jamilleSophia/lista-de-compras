@@ -3,8 +3,7 @@ Preciso comprar
 maçã
 banana
 abacaxi
-limão
-manga
+goiaba
 
 
 essa é minha lista de compras.
